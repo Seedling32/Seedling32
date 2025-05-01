@@ -7,7 +7,7 @@
 
 - 👨‍💻 Portfolio page: [https://davidrgraham.com/](https://davidrgraham.com/)
 
-- 📫 How to reach me: **david@davidrgraham.com**
+- 📫 How to reach me: **david.r.graham32@gmail.com**
 
 - ⚡ Fun fact: **I hot sauce all of my food too much.**
 
