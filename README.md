@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seedling32&label=Profile%20views&color=0e75b6&style=flat" alt="seedling32" /> </p>
 
+- Currently working on a Vacation Property Management Web App and Public Facing Website...Stay Tuned!
+
 - 🔭 View my Capstone Project: [Pedal Pact](https://pedal-pact-seven.vercel.app/)
 
 - 👨‍💻 Portfolio page: [https://davidrgraham.com/](https://davidrgraham.com/)
